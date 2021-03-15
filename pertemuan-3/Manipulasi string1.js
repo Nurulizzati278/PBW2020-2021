@@ -1,0 +1,1 @@
+document.getElementById("contoh").innerHTML = kalimat.length;
